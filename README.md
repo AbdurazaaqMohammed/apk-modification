@@ -1,6 +1,9 @@
 # apk-modification
 Notes, tools, guides and more relating to modification of APK files
 
+# Disclaimer
+Please note that this website is intended for educational and research purposes only. Always respect the rights of software developers and abide by the terms of service of the applications you modify.
+
 # Introduction
 This repository does not relate to "cracking" or "pirating" applications which is often associated with "Modded APKs", but rather several modifications and optimizations to APKs, mainly aiming to improve performance and reduce file size. This includes deletion of certain packages from APKs, such as analytics, crashlytics, trackers etc. This requires removing all invokes and reliances on the packages from the code of the APK.
 
