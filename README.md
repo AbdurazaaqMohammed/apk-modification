@@ -35,3 +35,25 @@ This repository does not relate to "cracking" or "pirating" applications which i
     * support for writing custom scripts.
 
 * [APK Editor](https://t.me/WSTprojects/1509) - A very old app, maintained by WSTprojects. Supports decompilation and custom patches, but is quite slow nowadays. It is still fast for quickly modifying XML files, which is a paid feature in MT Manager and requires fully decompiling in APKTool M.
+<li>
+ <a href="https://github.com/iBotPeaches/Apktool">Apktool</a> - A tool for reverse engineering Android APK files. It can decompile and recompile APKs, allowing you to modify the code and resources of an app. It is a command-line tool and requires Java to be installed on your system. Some of its features include:
+<ul>
+<li>Decoding and encoding of APK resources</li>
+<li>Decompiling and recompiling APKs</li>
+<li>Extracting and injecting resources</li>
+<li>Debugging and analyzing APK files</li>
+</ul>
+</li>
+<li>
+ <a href="https://github.com/skylot/jadx">JADX</a> - Another tool for decompiling and analyzing Android APK files. It provides a graphical interface and allows you to browse the source code of an app. Some features of JADX include:
+<ul>
+<li>Decompiling and analyzing APK files</li>
+<li>Browsing source code</li>
+<li>Searching for specific classes or methods</li>
+<li>Inspecting resources and assets</li>
+<li>Exporting source code</li>
+</ul>
+</li>
+ <li><a href="https://github.com/AbdurazaaqMohammed/AntiSplit-M"><strong>AntiSplit M</strong></a> - An open source app worked on by me to convert split APKs to a single APK.</li>
+ <li><a href="https://github.com/AbdurazaaqMohammed/AXML-Editor"><strong>AXML Editor</strong></a> - Open source editor I worked on to edit Android binary XML files (AndroidManifest.xml and layout XML files).</li>
+ <li><a href="https://github.com/AbdurazaaqMohammed/InjectDocumentsProvider"><strong>InjectDocumentsProvider</strong></a> - Access /Android/data and all data files of an Android app without any permissions by patching its APK file. This feature was created by Lin Jin Bin the developer of MT Manager but I created an open source app to inject it.</li>
